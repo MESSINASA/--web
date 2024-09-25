@@ -9,7 +9,10 @@ body, h1, h2, p, ul, li {
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-image: url('R-C.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: #333;
 }
 
